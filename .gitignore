@@ -9,6 +9,8 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
-build
 CMakeUserPresets.json
-cmake-build-debug
+lab_1_exe
+liblab_1_lib.a
+lib
+.vscode
